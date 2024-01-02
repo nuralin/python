@@ -1,0 +1,2 @@
+mkdir my_python_project
+cd my_python_project
